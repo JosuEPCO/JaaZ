@@ -1,0 +1,4 @@
+datos_genetica_simulados.csv | 50 padres × 30 hijos × 3 registros, dos rasgos. Ideal para heredabilidad (medios hermanos), repetibilidad y correlación genética.
+hato_lechero_simulado.xlsx | Población lechera simulada con pedigrí completo (3 generaciones), lactancias repetidas, hato y año. Parámetros verdaderos en la última hoja.
+pedigri_hato.ped | El mismo pedigrí en formato de texto de Pedigree Viewer (espacios, 0 = desconocido).
+endog_ejemplo.xls | Archivo de ejemplo distribuido con ENDOG 4.8 (Gutiérrez y Goyache, 2005): 600 animales con fecha, sexo, área y población de referencia. Útil para endogamia, Ne, fundadores, intervalos y estadísticos F.
